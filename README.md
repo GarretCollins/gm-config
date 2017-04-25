@@ -1,2 +1,2 @@
 # gm-config
-s
+Spring Config Server
